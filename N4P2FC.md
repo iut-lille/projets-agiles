@@ -4,11 +4,11 @@ Gestion des événements collaboratif
 
 ## Équipe
 
-* 
+* Woittequand Yohann, Fostier Julien, Degardin Simon, Dahmane Samy, Kadjaiev Anton, Machet Alexandre, Bureau Dany
 
 ## Resources
 
-* git : 
+* git : https://github.com/Simdeg/jersey-skeleton.git
 
 # Les petits cuistots
 
