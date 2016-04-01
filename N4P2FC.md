@@ -12,13 +12,20 @@ Gestion des événements collaboratif
 
 # Les petits cuistots
 
-Commander et emporter des plats préparés par des particuliers pationnés de cuisine.
+Commander et emporter des plats préparés par des particuliers passionnés de cuisine.
 
 ## Équipe
 
-* 
+* Elora Marchand
+* Corinne Baudens
+* Olivier Capelle
+* Grégoire Durand
+* Vincent Dubromez
+* Iréné Hategekimana
+* Bruno Merian
+* Matthias Pottiez 
 
 ## Resources
 
-* git : 
+* git : https://github.com/corinnebaudens/jersey-skeleton.git
 
