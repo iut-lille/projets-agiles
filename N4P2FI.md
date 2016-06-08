@@ -1,13 +1,13 @@
 # Brocante  
 
 * serveur : https://github.com/ThomasStunt/MaPtiteBrocante.git
-* android : 
+* android : https://github.com/Noopyx/MaPtiteBrocante.git
 
 # Little Greasy Characters 
 
 * site web : http://lgc.neio.fr/
-* serveur : 
-* android : 
+* serveur : https://github.com/Poulin-L/lgcWeb
+* android : https://github.com/Poulin-L/lgcAndroid
 
 
 # Emploi du temps 
@@ -17,13 +17,11 @@
 
 # Place Your Bets 
 
-* serveur : https://gitlab.com/flotan11/PYB
-* android : 
+* serveur et android : https://gitlab.com/flotan11/PYB.git
 
 # Battle Kart 
 
-* serveur : 
-* android : 
+* serveur : https://github.com/Tititesouris/BattleKart.git
 
 # MediaShare 
 
@@ -38,7 +36,6 @@
 # By Audace 
 
 * serveur : https://github.com/svevia/ByAudace
-* android : 
 
 # Take my clothes 
 
@@ -52,10 +49,8 @@
 
 # XBattle 
 
-* serveur : http://gaming.wikia.com/wiki/Xbattle
-* android : 
+* serveur : https://github.com/Noxilex/xBattleAwakening.git
 
 # Ludicode 
 
-* serveur : https://github.com/ProjetAgileLudicode/Ludicode-v4.2
-* android : 
+* serveur : https://github.com/ProjetAgileLudicode/Ludicode-v4.2 puis https://github.com/ludi-code/
