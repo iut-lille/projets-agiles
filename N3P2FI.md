@@ -1,14 +1,20 @@
-# My awesome project
+# Hearth of Magic Duel
 
-Proposition de valeur unique
+Jeu de cartes stratégique. 
 
 ## Équipe
 
-* 
+* ARONOWIEZ Jérémie
+* DUTRIEUX Lucas
+* WATRELOS Jérémy
+* GHYS Cyril
+* MEURILLON Aymeric
+* GRIETTE Martin
+* MOREL François
 
 ## Resources
 
-* git : 
+* git : https://github.com/aronowiezj/My-awesome-project.git
 
 
 # Ant-Land
