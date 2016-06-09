@@ -28,9 +28,15 @@ Ne repart pas qu'avec ton DUT
 
 ## Équipe
 
-* 
+* Maxence Decanter
+* Léo Vingadassamy
+* Thomas Buchard
+* Etienne Van Wynandaele
+* Alban Tartar
+* Maxime Picault
+* Jean Heysen
 
 ## Resources
 
-* git : 
+* git : https://github.com/tombuch/Teendut.git
 
