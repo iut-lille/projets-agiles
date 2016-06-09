@@ -12,15 +12,22 @@ Proposition de valeur unique
 
 
 # Ant-Land
-
+Jeu de simulation/gestion (production d'unités/bâtiments et attaque de l'adversaire possibles) d'une fourmilière en temps réel. Jeu contre un adversaire géré par l'ordinateur. Base de données de scores. 
 
 ## Équipe
 
-* 
+* LEDUC Adrien  
+* HOCHART Guillaume  
+* PÉRON Quentin 
+* MAYEUX William 
+* SYCZ Jason 
+* CARLIER Maxence 
+* VABOIS Loïck ;
+* MAAMMAR Timothé
 
 ## Resources
 
-* git : 
+* git : https://github.com/G0lovkin/Projet_Agile_S3_2016
 
 # Teendut
 
