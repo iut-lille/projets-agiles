@@ -1,6 +1,6 @@
 # Nom du projet 1
 
-Description du projet 
+Proposition de valeur unique
 
 ## Équipe
 
@@ -8,24 +8,12 @@ Description du projet
 
 ## Resources
 
-* git : 
+* git : https://github.com/G0lovkin/Projet_Biblio_S4
 
 
-# Nom du projet 2
+# King Rising 
 
-Description du projet 
-
-## Équipe
-
-* Nom Prénom
-
-## Resources
-
-* git : 
-
-# Nom du projet 3
-
-Description du projet 
+Proposition de valeur unique
 
 ## Équipe
 
@@ -33,6 +21,18 @@ Description du projet
 
 ## Resources
 
-* git : 
+* git : https://github.com/FunKyWizzarD/KingRising
+
+# Derp Tower
+
+Proposition de valeur unique
+
+## Équipe
+
+* Nom Prénom
+
+## Resources
+
+* git : https://github.com/Gwalden/derp_tower
 
 
