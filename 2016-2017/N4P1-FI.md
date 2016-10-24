@@ -23,13 +23,22 @@ Proposition de valeur unique
 
 * git : https://github.com/FunKyWizzarD/KingRising
 
-# Derp Tower
+# Derp The Tower
 
-Proposition de valeur unique
+Proposition de valeur unique :
+
+Lancer une partie rapide sur navigateur en tour par tour 
+
 
 ## Équipe
+* Vingadassamy Léo
+* Buchard Thomas 
+* Heysen Jean
+* Decanter Maxence
+* Defretin Simon
+* Tartar Alban
+* Van Wynendaele Etienne
 
-* Nom Prénom
 
 ## Resources
 
