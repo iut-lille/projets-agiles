@@ -13,11 +13,16 @@ Proposition de valeur unique
 
 # King Rising 
 
-Proposition de valeur unique
+King Rising est un jeu de stratégie en temps réel qui propose aux joueurs avertis et inexpérimentés d'écraser leurs adversaires en développant et gérant ses propres unités.
 
 ## Équipe
 
 * Nom Prénom
+DUTRIEUX Lucas
+ARONOWIEZ Jérémie
+WATRELOS Jérémy
+MEURILLON Aymeric
+GHYS Cyril
 
 ## Resources
 
