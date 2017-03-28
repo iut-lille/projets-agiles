@@ -18,7 +18,7 @@ Description / proposition de valeur unique
 Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 
 ## Équipe
-* Amine Mesmori
+
 * Jedrzejak William
 * Chabeniuk Raphaël
 * Hennuyer Martin
@@ -26,30 +26,12 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * Moreau Thomas
 * Tricart Clement
 * Mainguet Théo
-* Léa Parsy
 ## Resources
 
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
-# CoachSportif
-
-coaching sportif à domicile
-
-## Équipe
-
-* Delecaut Maite
-* BARRY Amina
-* FABLET Yan
-* GERARD Cyril
-* LEMAITRE Lug
-* VERQUIN Corentin
-* CREMONESE Timothée
-## Resources
-
-* git serveur + js : https://github.com/Daikimi/Projet_Agile.git
-* git android : 
-
+=======
 # iLearn
 
 Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
@@ -67,3 +49,29 @@ Système de surveillance des TPs des premières semestre du DUT Informatique afi
 
 * git serveur + js : https://gitlab.com/beunsv/ProjetAgile2017-Grp1
 * git android : https://gitlab.com/tchobels/Agile-Android
+
+--------------------------------------------------------
+# CYCLE MATE
+MORE THAN JUST CYCLING
+--------------------------------------------------------
+
+## Équipe
+
+* Anthony MATHON
+* Frédéric PROCHNOW
+* Dylan SLOWINSKI
+* Lucas GILMANT
+* Hugo LAFFILE
+* Ulysse BREHON
+
+## Resources
+
+* git : https://github.com/frederic-prochnow/Cycle_mate_agile
+
+
+# Description
+
+
+Proposer du cycling a domicile
+
+--------------------------------------------------------
