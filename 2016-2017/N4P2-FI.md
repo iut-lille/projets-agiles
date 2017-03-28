@@ -205,7 +205,8 @@ Marketplace de produits de luxe.
 
 ## Resources
 
-* git serveur + js + android : https://github.com/Hexafile/Praline_Priape.git
+* git serveur + js : https://github.com/Hexafile/Praline_Priape.git
+* android : https://github.com/NeroKyusi/Praline_Priape_Android.git
 
 
 # SPI / Declic fermeture
