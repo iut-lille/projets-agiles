@@ -71,3 +71,26 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
+
+# AccessiDys
+
+## Équipe
+
+* Thibault BAUDOIN
+* Laura BLASZKOWSKI
+* Louis-Arthur COLLOT
+* Carmelo CANTA
+* Adrien DURAND
+* Anthony VANRENTERGHEM
+* Rémi LASSALLE
+
+## Resources
+
+* git Serveur REST: https://github.com/LauraBlaszkowski/Serveur-AccessiDys.git
+* git Site AccessiDys + Android: https://github.com/LauraBlaszkowski/AccessiDys
+
+
+# Description
+
+Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
+
