@@ -126,6 +126,28 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
+# AccessiDys
+
+## Équipe
+
+* Thibault BAUDOIN
+* Laura BLASZKOWSKI
+* Louis-Arthur COLLOT
+* Carmelo CANTA
+* Adrien DURAND
+* Anthony VANRENTERGHEM
+* Rémi LASSALLE
+
+## Resources
+
+* git Serveur REST: https://github.com/LauraBlaszkowski/Serveur-AccessiDys.git
+* git Site AccessiDys + Android: https://github.com/LauraBlaszkowski/AccessiDys
+
+
+# Description
+
+Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
+
 # Arts'N'Bee
 
 site de mise en relation d'artistes et d'amateurs d'art
@@ -164,3 +186,18 @@ Site de vente de kit pour personnaliser les chaises.
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
+
+# SPI / Declic fermeture
+
+
+
+## Équipe
+
+* Coeuret Axel
+
+
+## Resources
+
+* git serveur + js : https://github.com/Axel-C/SPI.git
+* git android : https://github.com/valentintartare/SPIapp.git
+* adresse : http://51.255.131.194
