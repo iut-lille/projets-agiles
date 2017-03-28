@@ -68,6 +68,25 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
+# Mimoosa
+
+Préparation de petits plats faits maison, livrés à l'endroit souhaité.
+
+## Équipe
+
+* Dieu Emeline
+* Bette Guillaume
+* Peron Quentin
+* Plouvin Margot
+* Capon Théo
+* Debaisieux Nicolas
+* Lecomte Adrien
+
+## Resources
+
+* git serveur + js : https://github.com/Kisuma/jersey-skeleton
+* git android : https://github.com/Kisuma/Mimoosa-android
+
 # iLearn
 
 Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
@@ -107,8 +126,6 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
-
-
 # AccessiDys
 
 ## Équipe
@@ -131,7 +148,6 @@ Proposer du cycling a domicile
 
 Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
 
-
 # Arts'N'Bee
 
 site de mise en relation d'artistes et d'amateurs d'art
@@ -151,7 +167,6 @@ site de mise en relation d'artistes et d'amateurs d'art
 * git serveur + js : https://github.com/GermeR/ArtsNBee.git
 * git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
 
-
 # Naked Chairs
 
 Site de vente de kit pour personnaliser les chaises.
@@ -166,7 +181,6 @@ Site de vente de kit pour personnaliser les chaises.
 * MAERTEN Mélissa 
 * MASSIAUX Alexis
 * GAUTHIER Valentin
-
 
 ## Resources
 
