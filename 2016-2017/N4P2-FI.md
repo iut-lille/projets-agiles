@@ -31,6 +31,25 @@ Coaching sportif à domicile.
 * git serveur + js : https://github.com/Daikimi/Projet_Agile.git
 * git android : https://github.com/Daikimi/CoachSportifApp.git
 
+# Krea'Sport
+
+Course d'orientation nouvelle génération
+
+## Équipe
+
+* Caroni Christopher
+* François Nelson
+* Mayeux William
+* Vanhecke Julien
+* Duquesne Romain
+* BEVILACQUA Luca
+* Pirlet Gauthier
+
+## Resources
+
+* git : https://github.com/Nahyto/kreasport 
+
+
 # Astiko
 
 Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
