@@ -108,30 +108,6 @@ MORE THAN JUST CYCLING
 Proposer du cycling a domicile
 
 
-
-# AccessiDys
-
-## Équipe
-
-* Thibault BAUDOIN
-* Laura BLASZKOWSKI
-* Louis-Arthur COLLOT
-* Carmelo CANTA
-* Adrien DURAND
-* Anthony VANRENTERGHEM
-* Rémi LASSALLE
-
-## Resources
-
-* git Serveur REST: https://github.com/LauraBlaszkowski/Serveur-AccessiDys.git
-* git Site AccessiDys + Android: https://github.com/LauraBlaszkowski/AccessiDys
-
-
-# Description
-
-Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
-
-
 # Arts'N'Bee
 
 site de mise en relation d'artistes et d'amateurs d'art
@@ -167,23 +143,26 @@ Site de vente de kit pour personnaliser les chaises.
 * MASSIAUX Alexis
 * GAUTHIER Valentin
 
-
 ## Resources
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
 
-# SPI / Declic fermeture
 
+# Praline & Priape
 
+Marketplace de produits de luxe.
 
 ## Équipe
 
-* Coeuret Axel
-
+* STEENKISTE Jérémy
+* CHOUKHI Sofiane
+* ROCA Vincent
+* VASSEUR Samson
+* BENOIT Vincent
+* DATTE Hanah-Tamia
+* PLOUCHART Thomas
 
 ## Resources
 
-* git serveur + js : https://github.com/Axel-C/SPI.git
-* git android : https://github.com/valentintartare/SPIapp.git
-* adresse : http://51.255.131.194
+* git serveur + js + android : https://github.com/Hexafile/Praline_Priape.git
