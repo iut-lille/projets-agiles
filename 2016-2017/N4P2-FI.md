@@ -31,5 +31,22 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
+# Mimoosa
 
+Préparation de petits plats faits maison, livrés à l'endroit souhaité.
+
+## Équipe
+
+* Dieu Emeline
+* Bette Guillaume
+* Peron Quentin
+* Plouvin Margot
+* Capon Théo
+* Debaisieux Nicolas
+* Lecomte Adrien
+
+## Resources
+
+* git serveur + js : https://github.com/Kisuma/jersey-skeleton
+* git android : https://github.com/Kisuma/Mimoosa-android
 
