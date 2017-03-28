@@ -88,4 +88,4 @@ site de mise en relation d'artistes et d'amateurs d'art
 ## Resources
 
 * git serveur + js : https://github.com/GermeR/ArtsNBee.git
-* git android : 
+* git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
