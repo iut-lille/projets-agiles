@@ -11,6 +11,23 @@ Description / proposition de valeur unique
 
 * git serveur + js : 
 * git android : 
+# Krea'Sport
+
+Course d'orientation nouvelle génération
+
+## Équipe
+
+* Caroni Christopher
+* François Nelson
+* Mayeux William
+* Vanhecke Julien
+* Duquesne Romain
+* BEVILACQUA Luca
+* Pirlet Gauthier
+
+## Resources
+
+* git : https://github.com/Nahyto/kreasport 
 
 
 # Astiko
