@@ -10,7 +10,7 @@ Description / proposition de valeur unique
 ## Resources
 
 * git serveur + js : 
-* git android : 
+* git android :
 
 
 # Astiko
@@ -68,8 +68,8 @@ MORE THAN JUST CYCLING
 
 # Description
 
-
 Proposer du cycling a domicile
+
 
 # Arts'N'Bee
 
@@ -89,3 +89,25 @@ site de mise en relation d'artistes et d'amateurs d'art
 
 * git serveur + js : https://github.com/GermeR/ArtsNBee.git
 * git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
+
+
+# Naked Chairs
+
+Site de vente de kit pour personnaliser les chaises.
+
+## Équipe
+
+* SPELEERS Valentin
+* ALAER Malaury
+* DRODZINSKI Laurine 
+* GUERMONPREZ Maxime
+* LESAGE Dylan
+* MAERTEN Mélissa 
+* MASSIAUX Alexis
+* GAUTHIER Valentin
+
+
+## Resources
+
+* git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
+* git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
