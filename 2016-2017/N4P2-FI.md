@@ -174,13 +174,16 @@ Site de vente de kit pour personnaliser les chaises.
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
 
 # SPI / Declic fermeture
-
-
+Spécialiste de la pose et la maintenance de portes sectionelles et d'équipements de quai
 
 ## Équipe
 
 * Coeuret Axel
-
+* Holquin Benjamin
+* Deblock Adrien
+* Laude Rémi
+* Hadjadj Juliette
+* Vandeputte Simon
 
 ## Resources
 
