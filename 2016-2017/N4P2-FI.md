@@ -126,6 +126,7 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
+
 # AccessiDys
 
 ## Équipe
@@ -147,6 +148,7 @@ Proposer du cycling a domicile
 # Description
 
 Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
+
 
 # Arts'N'Bee
 
@@ -186,6 +188,25 @@ Site de vente de kit pour personnaliser les chaises.
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
+
+# Praline & Priape
+
+Marketplace de produits de luxe.
+
+## Équipe
+
+* STEENKISTE Jérémy
+* CHOUKHI Sofiane
+* ROCA Vincent
+* VASSEUR Samson
+* BENOIT Vincent
+* DATTE Hanah-Tamia
+* PLOUCHART Thomas
+
+## Resources
+
+* git serveur + js + android : https://github.com/Hexafile/Praline_Priape.git
+
 
 # SPI / Declic fermeture
 Spécialiste de la pose et la maintenance de portes sectionelles et d'équipements de quai
