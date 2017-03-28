@@ -31,5 +31,22 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
+# CoachSportif
+
+coaching sportif à domicile
+
+## Équipe
+
+* Delecaut Maite
+* BARRY Amina
+* FABLET Yan
+* GERARD Cyril
+* LEMAITRE Lug
+* VERQUIN Corentin
+* CREMONESE Timothée
+## Resources
+
+* git serveur + js : https://github.com/Daikimi/Projet_Agile.git
+* git android : 
 
 
