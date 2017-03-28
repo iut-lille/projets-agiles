@@ -12,6 +12,24 @@ Description / proposition de valeur unique
 * git serveur + js : 
 * git android :
 
+# Coach Sportif
+
+Coaching sportif à domicile.
+
+## Équipe
+
+* Verquin Corentin
+* Delecaut Maite
+* Fablet Yann
+* Lemaitre Lug
+* Barry Amina
+* Cremonesse Timothée
+* Gerard Cyril
+
+## Resources
+
+* git serveur + js : https://github.com/Daikimi/Projet_Agile.git
+* git android : https://github.com/Daikimi/CoachSportifApp.git
 
 # Astiko
 
