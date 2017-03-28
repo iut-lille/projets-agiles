@@ -32,4 +32,20 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git android : https://github.com/TheWardow/Astiko-android
 
 
+# iLearn
 
+Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
+
+## Équipe
+
+* Beuns Vianney
+* Meftouh Riad
+* Halleux Alexandre
+* Delporte Allan
+* Bels Alexis
+* Picault Maxime
+
+## Resources
+
+* git serveur + js : https://gitlab.com/beunsv/ProjetAgile2017-Grp1
+* git android : https://gitlab.com/tchobels/Agile-Android
