@@ -68,10 +68,27 @@ MORE THAN JUST CYCLING
 
 # Description
 
-
 Proposer du cycling a domicile
 
 
+# Arts'N'Bee
+
+site de mise en relation d'artistes et d'amateurs d'art
+
+## Équipe
+
+* Griette Martin
+* Germe Robin
+* Plaisance Baptiste
+* De Môraes Nicolas
+* Martello Arthur
+* Halipre Remy
+* Grisolet Léa
+
+## Resources
+
+* git serveur + js : https://github.com/GermeR/ArtsNBee.git
+* git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
 
 
 # Naked Chairs
@@ -94,6 +111,3 @@ Site de vente de kit pour personnaliser les chaises.
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
-
-
-
