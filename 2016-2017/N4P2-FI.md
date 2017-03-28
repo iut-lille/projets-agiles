@@ -10,7 +10,44 @@ Description / proposition de valeur unique
 ## Resources
 
 * git serveur + js : 
-* git android : 
+* git android :
+
+# Coach Sportif
+
+Coaching sportif à domicile.
+
+## Équipe
+
+* Verquin Corentin
+* Delecaut Maite
+* Fablet Yann
+* Lemaitre Lug
+* Barry Amina
+* Cremonesse Timothée
+* Gerard Cyril
+
+## Resources
+
+* git serveur + js : https://github.com/Daikimi/Projet_Agile.git
+* git android : https://github.com/Daikimi/CoachSportifApp.git
+
+# Krea'Sport
+
+Course d'orientation nouvelle génération
+
+## Équipe
+
+* Caroni Christopher
+* François Nelson
+* Mayeux William
+* Vanhecke Julien
+* Duquesne Romain
+* BEVILACQUA Luca
+* Pirlet Gauthier
+
+## Resources
+
+* git : https://github.com/Nahyto/kreasport 
 
 
 # Astiko
@@ -68,8 +105,8 @@ MORE THAN JUST CYCLING
 
 # Description
 
-
 Proposer du cycling a domicile
+
 
 
 # AccessiDys
@@ -94,3 +131,44 @@ Proposer du cycling a domicile
 
 Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
 
+
+# Arts'N'Bee
+
+site de mise en relation d'artistes et d'amateurs d'art
+
+## Équipe
+
+* Griette Martin
+* Germe Robin
+* Plaisance Baptiste
+* De Môraes Nicolas
+* Martello Arthur
+* Halipre Remy
+* Grisolet Léa
+
+## Resources
+
+* git serveur + js : https://github.com/GermeR/ArtsNBee.git
+* git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
+
+
+# Naked Chairs
+
+Site de vente de kit pour personnaliser les chaises.
+
+## Équipe
+
+* SPELEERS Valentin
+* ALAER Malaury
+* DRODZINSKI Laurine 
+* GUERMONPREZ Maxime
+* LESAGE Dylan
+* MAERTEN Mélissa 
+* MASSIAUX Alexis
+* GAUTHIER Valentin
+
+
+## Resources
+
+* git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
+* git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
