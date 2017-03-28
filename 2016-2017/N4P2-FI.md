@@ -10,7 +10,9 @@ Description / proposition de valeur unique
 ## Resources
 
 * git serveur + js : 
-* git android : 
+* git android :
+
+
 # Krea'Sport
 
 Course d'orientation nouvelle génération
@@ -87,4 +89,30 @@ MORE THAN JUST CYCLING
 
 
 Proposer du cycling a domicile
+
+
+
+
+# Naked Chairs
+
+Site de vente de kit pour personnaliser les chaises.
+
+## Équipe
+
+* SPELEERS Valentin
+* ALAER Malaury
+* DRODZINSKI Laurine 
+* GUERMONPREZ Maxime
+* LESAGE Dylan
+* MAERTEN Mélissa 
+* MASSIAUX Alexis
+* GAUTHIER Valentin
+
+
+## Resources
+
+* git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
+* git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
+
+
 
