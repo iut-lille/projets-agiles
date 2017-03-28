@@ -187,3 +187,24 @@ Site de vente de kit pour personnaliser les chaises.
 * git serveur + js : https://github.com/Axel-C/SPI.git
 * git android : https://github.com/valentintartare/SPIapp.git
 * adresse : http://51.255.131.194
+
+
+# Ludicode
+
+Coder en s'amusant !
+
+## Équipe
+
+* Beaudoul Quentin
+* Devassine Alexandre
+* Diabat Melvin
+* Gillet Dylan
+* Morel François
+* Serizel Gabrielle
+* Vitse Marie
+* Joher Ali
+
+## Resources
+
+* git serveur + js : https://github.com/ludi-code/ludicode
+* git android : https://github.com/ludi-code/AppLudicode
