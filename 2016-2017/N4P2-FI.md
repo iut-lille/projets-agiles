@@ -1,15 +1,19 @@
-# Nom du projet
+# Hunter
 
-Description / proposition de valeur unique
+Application permettant de mettre en relation des recruteurs et des étudiants via une géolocalisation.
 
-## Équipe
+## Équipe 12
 
-* Nom Prénom
-* etc.
+* Hourdeau Antoine
+* Debruyne Loic
+* Regnier Kevin
+* Borée Cyprien
+* Pellerin Alexandre
+* Tihianine Adel
+* Diaz Rachel
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
+* git serveur + js + android : https://git-iut.univ-lille1.fr/diazr/Hunter.git
 
 
