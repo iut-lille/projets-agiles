@@ -31,7 +31,6 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
-=======
 # iLearn
 
 Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
@@ -50,10 +49,8 @@ Système de surveillance des TPs des premières semestre du DUT Informatique afi
 * git serveur + js : https://gitlab.com/beunsv/ProjetAgile2017-Grp1
 * git android : https://gitlab.com/tchobels/Agile-Android
 
---------------------------------------------------------
 # CYCLE MATE
 MORE THAN JUST CYCLING
---------------------------------------------------------
 
 ## Équipe
 
@@ -74,4 +71,3 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
---------------------------------------------------------
