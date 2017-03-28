@@ -68,6 +68,25 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
 * git android : https://github.com/TheWardow/Astiko-android
 
+# Mimoosa
+
+Préparation de petits plats faits maison, livrés à l'endroit souhaité.
+
+## Équipe
+
+* Dieu Emeline
+* Bette Guillaume
+* Peron Quentin
+* Plouvin Margot
+* Capon Théo
+* Debaisieux Nicolas
+* Lecomte Adrien
+
+## Resources
+
+* git serveur + js : https://github.com/Kisuma/jersey-skeleton
+* git android : https://github.com/Kisuma/Mimoosa-android
+
 # iLearn
 
 Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
@@ -108,6 +127,29 @@ MORE THAN JUST CYCLING
 Proposer du cycling a domicile
 
 
+# AccessiDys
+
+## Équipe
+
+* Thibault BAUDOIN
+* Laura BLASZKOWSKI
+* Louis-Arthur COLLOT
+* Carmelo CANTA
+* Adrien DURAND
+* Anthony VANRENTERGHEM
+* Rémi LASSALLE
+
+## Resources
+
+* git Serveur REST: https://github.com/LauraBlaszkowski/Serveur-AccessiDys.git
+* git Site AccessiDys + Android: https://github.com/LauraBlaszkowski/AccessiDys
+
+
+# Description
+
+Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
+
+
 # Arts'N'Bee
 
 site de mise en relation d'artistes et d'amateurs d'art
@@ -126,7 +168,6 @@ site de mise en relation d'artistes et d'amateurs d'art
 
 * git serveur + js : https://github.com/GermeR/ArtsNBee.git
 * git android : https://github.com/Demoo59/AndroidProjetS4DUT.git
-
 
 # Naked Chairs
 
@@ -148,7 +189,6 @@ Site de vente de kit pour personnaliser les chaises.
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
 
-
 # Praline & Priape
 
 Marketplace de produits de luxe.
@@ -166,3 +206,43 @@ Marketplace de produits de luxe.
 ## Resources
 
 * git serveur + js + android : https://github.com/Hexafile/Praline_Priape.git
+
+
+# SPI / Declic fermeture
+Spécialiste de la pose et la maintenance de portes sectionelles et d'équipements de quai
+
+## Équipe
+
+* Coeuret Axel
+* Holquin Benjamin
+* Deblock Adrien
+* Laude Rémi
+* Hadjadj Juliette
+* Vandeputte Simon
+
+## Resources
+
+* git serveur + js : https://github.com/Axel-C/SPI.git
+* git android : https://github.com/valentintartare/SPIapp.git
+* adresse : http://51.255.131.194
+
+
+# Ludicode
+
+Coder en s'amusant !
+
+## Équipe
+
+* Beaudoul Quentin
+* Devassine Alexandre
+* Diabat Melvin
+* Gillet Dylan
+* Morel François
+* Serizel Gabrielle
+* Vitse Marie
+* Joher Ali
+
+## Resources
+
+* git serveur + js : https://github.com/ludi-code/ludicode
+* git android : https://github.com/ludi-code/AppLudicode
