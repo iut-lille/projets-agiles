@@ -172,3 +172,18 @@ Site de vente de kit pour personnaliser les chaises.
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
+
+# SPI / Declic fermeture
+
+
+
+## Équipe
+
+* Coeuret Axel
+
+
+## Resources
+
+* git serveur + js : https://github.com/Axel-C/SPI.git
+* git android : https://github.com/valentintartare/SPIapp.git
+* adresse : http://51.255.131.194
