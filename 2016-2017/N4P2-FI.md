@@ -71,3 +71,21 @@ MORE THAN JUST CYCLING
 
 Proposer du cycling a domicile
 
+# OBarbecue
+
+Etablissement de restauration rapide dont le concept est une cuisson des viandes au barbecue.
+
+## Équipe
+
+* BAUDRY Oscar
+* BEHAGUE Cyprien
+* COPPIN Valentin
+* MEZIERES Vanessa
+* PROVO Florian
+* RUCART Timothé
+
+## Resources
+
+* git serveur + js : https://github.com/Shadovokun/OBarbecue.git
+
+
