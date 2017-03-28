@@ -18,7 +18,7 @@ Description / proposition de valeur unique
 Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 
 ## Équipe
-
+* Amine Mesmori
 * Jedrzejak William
 * Chabeniuk Raphaël
 * Hennuyer Martin
@@ -26,6 +26,7 @@ Lavage de voiture rapide par des brigades mobiles, sur le principe de Uber.
 * Moreau Thomas
 * Tricart Clement
 * Mainguet Théo
+* Léa Parsy
 ## Resources
 
 * git serveur + js : https://github.com/TheWardow/jersey-skeleton
