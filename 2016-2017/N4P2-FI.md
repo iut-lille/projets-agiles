@@ -247,3 +247,22 @@ Coder en s'amusant !
 
 * git serveur + js : https://github.com/ludi-code/ludicode
 * git android : https://github.com/ludi-code/AppLudicode
+
+# OBarbecue
+
+Entreprise familiale de restauration rapide par la cuisson au barbecue.
+
+## Équipe
+
+* BAUDRY Oscar
+* BEHAGUE Cyprien
+* COPPIN Valentin
+* MEZIERES Vanessa
+* PROVO Florian
+* RUCART Timothé
+* VANTOURS François
+
+## Resources
+
+* git serveur + js : https://github.com/Shadovokun/OBarbecue.git
+* git android : https://github.com/Shadovokun/OBarbecue/tree/master/OBarbecueMobile (le projet mobile est contenu comme une branche du git de OBarbecue
