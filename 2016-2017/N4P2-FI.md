@@ -14,6 +14,7 @@ Application permettant de mettre en relation des recruteurs et des étudiants vi
 
 ## Resources
 
-* git serveur + js + android : https://git-iut.univ-lille1.fr/diazr/Hunter.git
+* git serveur + js : https://git-iut.univ-lille1.fr/diazr/Hunter.git
+* git android : https://git-iut.univ-lille1.fr/diazr/Hunter.git
 
 
