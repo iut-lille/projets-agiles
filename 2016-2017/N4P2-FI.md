@@ -188,6 +188,7 @@ Site de vente de kit pour personnaliser les chaises.
 
 * git serveur + js : https://github.com/MallauryA/ProjetAgile_NakedChairs.git
 * git android : https://github.com/Alexis-Massiaux/Agile-Mobile.git
+* Adresse docker : 51.255.131.192
 
 # Praline & Priape
 
