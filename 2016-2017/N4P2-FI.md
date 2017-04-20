@@ -272,6 +272,8 @@ Entreprise familiale de restauration rapide par la cuisson au barbecue.
 
 # 123 Grandir
 
+Micro crèche.
+
 ## Équipe
 
 * AIT ELHAJ Az. 
@@ -284,5 +286,5 @@ Entreprise familiale de restauration rapide par la cuisson au barbecue.
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
+* git serveur + js : https://github.com/Azzerood/jersey-skeleton
+* git android : https://github.com/Azzerood/jersey-skeleton/tree/master/123Grandir_AndroidApp (L'appli mobile est inclus dans le git du projet)
