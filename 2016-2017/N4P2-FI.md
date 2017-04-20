@@ -134,6 +134,8 @@ Proposer du cycling a domicile
 
 # AccessiDys
 
+Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
+
 ## Équipe
 
 * Thibault BAUDOIN
@@ -148,11 +150,6 @@ Proposer du cycling a domicile
 
 * git Serveur REST: https://github.com/LauraBlaszkowski/Serveur-AccessiDys.git
 * git Site AccessiDys + Android: https://github.com/LauraBlaszkowski/AccessiDys
-
-
-# Description
-
-Site internet permettant de faciliter la lecture de pages web aux personnes dyslexiques grâce à un formatage du texte (couleur, taille, ...)
 
 
 # Arts'N'Bee
@@ -272,3 +269,20 @@ Entreprise familiale de restauration rapide par la cuisson au barbecue.
 
 * git serveur + js : https://github.com/Shadovokun/OBarbecue.git
 * git android : https://github.com/Shadovokun/OBarbecue/tree/master/OBarbecueMobile (le projet mobile est contenu comme une branche du git de OBarbecue
+
+# 123 Grandir
+
+## Équipe
+
+* AIT ELHAJ Az. 
+* BRISSET Ad.
+* LAMBOIS Al.
+* LEPRETRE Gu. 
+* MEULEMAN Re.
+* REINLING Ro. 
+* CASCAILH Romain
+
+## Resources
+
+* git serveur + js : 
+* git android : 
