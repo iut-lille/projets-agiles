@@ -26,16 +26,20 @@ Description / proposition de valeur unique
 * git : 
 * URL de publication : 
 
-# Hendex
+# Hendek
 
 Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* BARBET Florian
+* BRUNI Xavier
+* DUJARDIN Remi
+* HIRSON Florian
+* SURMONT Nicolas
+* MASTALERZ Thomas
 
 ## Resources
 
-* git : 
-* URL de publication : 
+* git : https://git-iut.univ-lille1.fr/barbetf/AgileS3/tree/master/Rendu
+* URL de publication : https://git-iut.univ-lille1.fr/barbetf/AgileS3.git
