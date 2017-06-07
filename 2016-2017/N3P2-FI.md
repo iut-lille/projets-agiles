@@ -34,16 +34,20 @@ Mixé-Décalé est un jeu de carte stratégique inspiré de Hearthstone où les 
 * git : https://git-iut.univ-lille1.fr/haddadr/JeuDeCarte
 
 
-# Hendex
+# Hendek
 
 Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* BARBET Florian
+* BRUNI Xavier
+* DUJARDIN Remi
+* HIRSON Florian
+* SURMONT Nicolas
+* MASTALERZ Thomas
 
 ## Resources
 
-* git : 
-* URL de publication : 
+* git : https://git-iut.univ-lille1.fr/barbetf/AgileS3/tree/master/Rendu
+* URL de publication : https://git-iut.univ-lille1.fr/barbetf/AgileS3.git
