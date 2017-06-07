@@ -1,16 +1,19 @@
 # Nerd's battle
 
-Nerd's Battle, un jeu rpg en solo ou à 2 joueurs.
+Nerd's battle est jeu de type RPG qui propose 3 modes différents : le mode joueur contre joueur, le mode joueur contre IA (avec une campagne), et le mode entrainement. Le jeu repose sur un système de shop, où on peut acheter des armures, des armes et des consommables qui permettent de s'adapter aux différents types d'adversaires rencontrés.
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Baillet Thomas
+* Leicht Théo
+* Oliveira Dos Santos Stéphane
+* Richard Alexandra
+* Karboubi Ahmed
+* Skawand Dylan
 
 ## Resources
 
-* git : 
-* URL de publication : 
+* git : https://github.com/imThaku/Nerd-s-Battle
 
 
 # Mixé décalé
