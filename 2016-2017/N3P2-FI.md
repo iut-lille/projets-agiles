@@ -1,6 +1,6 @@
 # Nerd's battle
 
-Description / proposition de valeur unique
+Nerd's Battle, un jeu rpg en solo ou à 2 joueurs.
 
 ## Équipe
 
