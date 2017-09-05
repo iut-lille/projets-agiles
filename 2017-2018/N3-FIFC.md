@@ -195,18 +195,22 @@ Ceci est un monopoliut
 
 * git : https://git-iut.univ-lille1.fr/halleuxa/Monopoliut.git
 
-# Équipe 14 : Nom du projet
+# Équipe 14 : IUTinder
 
-Description / proposition de valeur unique
+IUTinder est une application qui permet à des élèves de trouver des amis ou de se faire aider pour les cours.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* DECLERCK Théo
+* MATHON Caroline
+* SENGENS Charles
+* DELSAUT Juliette
+* DERACHE Lucas
+* SAURO Romain
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/sengesc/iutinder.git
 
 # Équipe 15 : Agenda
 
