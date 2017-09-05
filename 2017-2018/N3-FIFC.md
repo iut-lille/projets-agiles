@@ -1,15 +1,11 @@
 # Équipe 0 : Nom du projet
 
-Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* ...
-
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/goubelg/Reversi.git
 
 
 # Équipe 1 : Nom du projet
@@ -25,35 +21,27 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 2 : IUT Simulator (iut-life)
+# Équipe 2 : Nom du projet
 
-Ce jeu simule la vie de l'IUT. Essayez de survivre 2 semaines dans cet environnement difficile 
+Description / proposition de valeur unique
 
 ## Équipe
 
-* BADEY Arthur
-* LEWANDOSKI Baptiste
-* PASSARD Martin
-* JORDAO Ninon
-* AGNERAY Quentin
-* LUCAS Valentin
+* Nom Prénom
+* ...
 
 ## Resources
 
-* git : https://git-iut.univ-lille1.fr/passardm/iut-Life
+* git : 
 
-# Équipe 3 : Gestion d'Hôtel
+# Équipe 3 : Nom du projet
 
-Creation d'un logiciel de gestion d'hotel pour pouvoir reserver une chambre pour le client, et gérer les réservations pour l'admin.
+Description / proposition de valeur unique
 
 ## Équipe
 
 * Lucas Fresiers
-* Alexandre AZZARO
-* Clement BOURDIER
-* Juliette PARISSEAUX
-* Malaury BOUDON
-* Valentin VERSPEEK
+* ...
 
 ## Resources
 
@@ -182,16 +170,20 @@ Description / proposition de valeur unique
 
 # Équipe 12 : Nom du projet
 
-Description / proposition de valeur unique
+Reversi / Othello
 
 ## Équipe
 
-* Nom Prénom
-* ...
+DECAUX Lucas
+GOUBEL Grégory
+MAGNIER Benjamin
+MARTEL Benjamin
+PICQUENDAR Dylan
+WIBAUT César
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/goubelg/Reversi.git
 
 # Équipe 13 : Nom du projet
 
