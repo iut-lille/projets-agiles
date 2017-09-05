@@ -25,18 +25,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 2 : Nom du projet
+# Équipe 2 : IUT Simulator (iut-life)
 
-Description / proposition de valeur unique
+Ce jeu simule la vie de l'IUT. Essayez de survivre 2 semaines dans cet environnement difficile 
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* BADEY Arthur
+* LEWANDOSKI Baptiste
+* PASSARD Martin
+* JORDAO Ninon
+* AGNERAY Quentin
+* LUCAS Valentin
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/passardm/iut-Life
 
 # Équipe 3 : Nom du projet
 
