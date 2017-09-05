@@ -276,7 +276,7 @@ C'est un jeu de donjon narratif, le personnage se deplace de salle en salle gén
 
 * GROULEZ Benjamin
 * BON Antoine
-* CORBEAU Lucas
+* CORBEAU Luca
 * LICOUR Samy
 * DUPONT Armand
 * ILIENESCU Anca
