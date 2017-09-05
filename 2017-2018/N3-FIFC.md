@@ -110,10 +110,10 @@ Description / proposition de valeur unique
 ## Équipe
 
 * Ablain Lucas
-  Rousselle Florent
-  Busschaert Adrien
-  Mons Maxime
-  Bliecq Anthony
+* Rousselle Florent
+* Busschaert Adrien
+* Mons Maxime
+* Bliecq Anthony
 
 ## Resources
 
