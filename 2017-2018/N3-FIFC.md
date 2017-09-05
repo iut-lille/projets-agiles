@@ -66,16 +66,19 @@ Description / proposition de valeur unique
 
 # Équipe 5 : Nom du projet
 
-Description / proposition de valeur unique
+Bataille Navale
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Maes Valentin
+* Pierru Thibaut
+* Catteau Kaelig
+* Belaid Abdelhak
+* Vincent Robart
 
 ## Resources
 
-* git : 
+* git :  https://git-iut.univ-lille1.fr/pierrut/test.git
 
 # Équipe 6 : Nom du projet
 
@@ -109,12 +112,15 @@ Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Ablain Lucas
+* Rousselle Florent
+* Busschaert Adrien
+* Mons Maxime
+* Bliecq Anthony
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/bliecqa/agile_G8
 
 # Équipe 9 : Nom du projet
 
@@ -131,16 +137,20 @@ Description / proposition de valeur unique
 
 # Équipe 10 : Nom du projet
 
-Description / proposition de valeur unique
+Monopoly
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Dépommier thibaut
+* RENAUD Guillaume
+* Ramboaniaina Jonathan
+* Depays Erwan
+* WLoch Paul
+* Worme Benjamin
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/tanguy.depommier/monopoly.git
 
 # Équipe 11 : Nom du projet
 
@@ -194,18 +204,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 15 : Nom du projet
+# Équipe 15 : Agenda
 
-Description / proposition de valeur unique
+Il s'agit d'un agenda. On peut créer des évènements, et des contacts afin d'organiser des rendez-vous.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* DARROMAN Baptiste
+* FERRON Anais
+* LETERME Alexis
+* MABRIEZ Nathan
+* MAZAUD Tristan
+* RICQUET Florent
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/letermea/Agenda.git
 
 # Équipe 16 : Nom du projet
 
@@ -257,6 +271,7 @@ Description / proposition de valeur unique
 
 ## Resources
 
+
 * git :
 
 
@@ -276,5 +291,6 @@ Nous nous sommes inspirés de blablacar et nous l'avons transformé pour des liv
 ## Resources
 
 * git : https://git-iut.univ-lille1.fr/deschamg/BlaBlaTruck.git
+
 
 
