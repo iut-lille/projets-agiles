@@ -38,14 +38,18 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 3 : Nom du projet
+# Équipe 3 : Gestion d'Hôtel
 
-Description / proposition de valeur unique
+Creation d'un logiciel de gestion d'hotel pour pouvoir reserver une chambre pour le client, et gérer les réservations pour l'admin.
 
 ## Équipe
 
 * Lucas Fresiers
-* ...
+* Alexandre AZZARO
+* Clement BOURDIER
+* Juliette PARISSEAUX
+* Malaury BOUDON
+* Valentin VERSPEEK
 
 ## Resources
 
