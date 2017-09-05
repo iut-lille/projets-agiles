@@ -66,16 +66,19 @@ Description / proposition de valeur unique
 
 # Équipe 5 : Nom du projet
 
-Description / proposition de valeur unique
+Bataille Navale
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Maes Valentin
+* Pierru Thibaut
+* Catteau Kaelig
+* Belaid Abdelhak
+* Vincent Robart
 
 ## Resources
 
-* git : 
+* git :  https://git-iut.univ-lille1.fr/pierrut/test.git
 
 # Équipe 6 : Nom du projet
 
