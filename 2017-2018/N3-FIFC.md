@@ -109,12 +109,15 @@ Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Ablain Lucas
+  Rousselle Florent
+  Busschaert Adrien
+  Mons Maxime
+  Bliecq Anthony
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/bliecqa/agile_G8
 
 # Équipe 9 : Nom du projet
 
