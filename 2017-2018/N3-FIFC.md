@@ -247,18 +247,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 18 : Nom du projet
+# Équipe 18 : GetYourCrush
 
-Description / proposition de valeur unique
+Jeu type CandyCrush
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Tricquet Amaury
+* Marliot Thibault
+* Durand Adrien
+* Lestienne Florian
+* Bodea Coralia
+* Belembert Melvin
 
 ## Resources
 
-* git : 
+* git : https://github.com/yazstonn/GetYourCrush
 
 # Équipe 19 : Nom du projet
 
