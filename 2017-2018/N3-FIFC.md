@@ -261,4 +261,3 @@ Description / proposition de valeur unique
 ## Resources
 
 * git : 
-
