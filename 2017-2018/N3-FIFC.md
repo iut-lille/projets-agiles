@@ -122,18 +122,21 @@ Description / proposition de valeur unique
 
 * git : https://git-iut.univ-lille1.fr/bliecqa/agile_G8
 
-# Équipe 9 : Nom du projet
+# Équipe 9 : Uno
 
-Description / proposition de valeur unique
+Jeu de cartes Uno.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Rohaert Florian
+* Cany Matthieu
+* Brunin Aymeric
+* Marchand Tom
+* Salvador Clément
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/canym/Uno.git
 
 # Équipe 10 : Nom du projet
 
