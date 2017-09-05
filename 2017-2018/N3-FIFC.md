@@ -180,16 +180,20 @@ Description / proposition de valeur unique
 
 # Équipe 13 : Nom du projet
 
-Description / proposition de valeur unique
+Ceci est un monopoliut
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* GRANDI Francesca 
+* BERTIN Sarah
+* MATZKE Thibaut
+* HALLEUX Alexandre
+* LE RAY Clement
+* MARFIL Rémy
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/halleuxa/Monopoliut.git
 
 # Équipe 14 : Nom du projet
 
