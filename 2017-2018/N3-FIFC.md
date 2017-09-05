@@ -197,18 +197,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 15 : Nom du projet
+# Équipe 15 : Agenda
 
-Description / proposition de valeur unique
+Il s'agit d'un agenda. On peut créer des évènements, et des contacts afin d'organiser des rendez-vous.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* DARROMAN Baptiste
+* FERRON Anais
+* LETERME Alexis
+* MABRIEZ Nathan
+* MAZAUD Tristan
+* RICQUET Florent
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/letermea/Agenda.git
 
 # Équipe 16 : Nom du projet
 
