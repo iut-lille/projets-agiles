@@ -268,19 +268,23 @@ Jeu type CandyCrush
 
 * git : https://github.com/yazstonn/GetYourCrush
 
-# Équipe 19 : Nom du projet
+# Équipe 19 : OurStory
 
-Description / proposition de valeur unique
+C'est un jeu de donjon narratif, le personnage se deplace de salle en salle générées aléatoirements. Dans ces différentes salles, il devra faire des choix, comme affronter des monstres ou recuperer des objets, son aventure sera déterminée par ses choix. Son but est de sortir du donjon pour gagner.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* GROULEZ Benjamin
+* BON Antoine
+* CORBEAU Lucas
+* LICOUR Samy
+* DUPONT Armand
+* ILIENESCU Anca
 
 ## Resources
 
 
-* git :
+* git : https://git-iut.univ-lille1.fr/bona/OurStory.git
 
 
 
