@@ -44,12 +44,12 @@ Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
+* Lucas Fresiers
 * ...
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/fresierl/Projet_Agile_Groupe_3.git
 
 # Équipe 4 : Nom du projet
 
