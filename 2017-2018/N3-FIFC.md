@@ -134,16 +134,20 @@ Description / proposition de valeur unique
 
 # Équipe 10 : Nom du projet
 
-Description / proposition de valeur unique
+Monopoly
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Dépommier thibaut
+* RENAUD Guillaume
+* Ramboaniaina Jonathan
+* Depays Erwan
+* WLoch Paul
+* Worme Benjamin
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/tanguy.depommier/monopoly.git
 
 # Équipe 11 : Nom du projet
 
