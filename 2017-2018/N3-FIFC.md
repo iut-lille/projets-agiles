@@ -257,5 +257,24 @@ Description / proposition de valeur unique
 
 ## Resources
 
-* git : 
+* git :
+
+
+
+# Équipe 20 : BlaBlaTruck
+
+Nous nous sommes inspirés de blablacar et nous l'avons transformé pour des livreurs de marchandises, on peut réserver un transport en fonction de son type de camion (réfrigéré ...) ainsi qu'en fonction de son trajet
+
+## Équipe
+
+* Max GUermonprez
+* Simon Hallart
+* Quentin Mudry
+* Geoffrey Deschamps
+* Cristian Vijdea
+
+## Resources
+
+* git : https://git-iut.univ-lille1.fr/deschamg/BlaBlaTruck.git
+
 
