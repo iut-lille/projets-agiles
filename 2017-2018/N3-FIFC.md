@@ -175,7 +175,7 @@ Description / proposition de valeur unique
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/brogniap/ProjetAgile.git
 
 # Équipe 12 : Nom du projet
 
