@@ -100,12 +100,16 @@ Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Chauchoy Thibaut
+* Haingue Fabien
+* Meurin Dorian
+* huyghe antoine
+* 
+
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/hainguef/Agile-groupe7.git
 
 # Équipe 8 : Nom du projet
 
