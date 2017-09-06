@@ -1,13 +1,3 @@
-# Équipe 0 : Nom du projet
-
-
-## Équipe
-
-## Resources
-
-* git : https://git-iut.univ-lille1.fr/goubelg/Reversi.git
-
-
 # Équipe 1 : Nom du projet
 
 Description / proposition de valeur unique
