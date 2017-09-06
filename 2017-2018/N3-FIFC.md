@@ -108,7 +108,8 @@ Description / proposition de valeur unique
 * Haingue Fabien
 * Meurin Dorian
 * huyghe antoine
-* 
+* Philippart Jérôme 
+* Dubuis Marin
 
 
 ## Resources
