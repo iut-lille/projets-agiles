@@ -82,16 +82,18 @@ Bataille Navale
 
 # Équipe 6 : Nom du projet
 
-Description / proposition de valeur unique
-
+La foire de l'iut, mini jeux divers comme la bataille et d'autres.
 ## Équipe
 
-* Nom Prénom
-* ...
-
+* QUENTIN Dylan
+* MARTEL ELodie
+* BOUCHERY Cyril
+* CADET Florent
+* BONNE Maxime
+* LELOIRE Quentin
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/quentind/Agile.git
 
 # Équipe 7 : Nom du projet
 
