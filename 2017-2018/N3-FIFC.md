@@ -1,3 +1,4 @@
+
 # Équipe 1 : Nom du projet
 
 Description / proposition de valeur unique
@@ -236,18 +237,22 @@ Il s'agit d'un agenda. On peut créer des évènements, et des contacts afin d'o
 
 * git : https://git-iut.univ-lille1.fr/letermea/Agenda.git
 
-# Équipe 16 : Nom du projet
+# Équipe 16 : Trivial Pursuit
 
-Description / proposition de valeur unique
+Notre jeu est un Trivial Pursuit modifié, en plus de poser des questions sur différentes catégories au joueur, il lui sera demander de finir des minis-jeux
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Fouant Matteo
+* Machta Ossama
+* Mattana Guillaumm
+* Hanquez Cyril
+* Swynghedauw Wilfried
+* De Massary Aymeric
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/demassaa/trial.git
 
 # Équipe 17 : Nom du projet
 
