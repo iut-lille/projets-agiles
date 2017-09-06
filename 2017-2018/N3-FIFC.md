@@ -1,16 +1,20 @@
 
 # Équipe 1 : Nom du projet
+Jeux de casino : poker, batailles, machine à sous, roulette, blackjack
 
-Description / proposition de valeur unique
 
 ## Équipe
+* Denece Simon
+* Turostowski Antoine
+* Blondeau Antoine
+* Dutoit Paul
+* Ourizat Maxence
+* ?
 
-* Nom Prénom
-* ...
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/turostoa/Projet-Casino-GROUPE1.git
 
 # Équipe 2 : IUT Simulator (iut-life)
  
