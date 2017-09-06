@@ -164,14 +164,18 @@ Monopoly
 
 * git : https://git-iut.univ-lille1.fr/tanguy.depommier/monopoly.git
 
-# Équipe 11 : Nom du projet
+# Équipe 11 : Donjon
 
-Description / proposition de valeur unique
+Mini rpg dans le lequel on combat des monstrer pour monter de niveau et ameliorer ses caracteristiques.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Brogniart Patrick
+* Liard Thomas
+* Moreau Antoine
+* Mathon Gaspard
+* Desprez Thomas
+* Duponchelle Stephane
 
 ## Resources
 
