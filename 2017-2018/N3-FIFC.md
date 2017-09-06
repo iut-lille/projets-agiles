@@ -254,18 +254,22 @@ Notre jeu est un Trivial Pursuit modifié, en plus de poser des questions sur di
 
 * git : https://git-iut.univ-lille1.fr/demassaa/trial.git
 
-# Équipe 17 : Nom du projet
+# Équipe 17 : Grand Palace Casino
 
-Description / proposition de valeur unique
+Casino des familles.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* PLAISANCE Baptiste
+* TERTRAIS Cyprien
+* MERIAUX Quentin
+* DRAME Mariama
+* DESCAMPS Gauthier
+* DOUBLECOURT Louis
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/tertraic/Casino.git
 
 # Équipe 18 : GetYourCrush
 
