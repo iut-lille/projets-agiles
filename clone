@@ -1,0 +1,25 @@
+#!/bin/bash
+
+WORK_DIR=/tmp/clones/
+ORG_DIR=$(pwd)/$(dirname $0)
+rm -rf $WORK_DIR
+mkdir $WORK_DIR
+cd $WORK_DIR
+
+csplit --quiet $ORG_DIR/2017-2018/N3-FIFC.md '/^# /' '{*}'
+
+for projet in xx*
+do
+  url=$(cat $projet | grep 'git :' | sed -e 's/.*git ://g')
+  title=$(head -n 1 $projet)
+  if [ -z $url ] 
+  then
+    echo "$title : pas de git"
+  else
+    git clone --quiet $url ${projet}.git 2>/dev/null
+    if [ $? -gt 0 ]
+    then 
+      echo "$title : pas les droits"
+    fi
+  fi
+done
