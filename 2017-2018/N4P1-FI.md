@@ -27,7 +27,7 @@ Description, proposition de valeur unique
  
 ## Équipe
  
-* Nom Prénom
+* ODS Stephane
  
 ## Resources
 
