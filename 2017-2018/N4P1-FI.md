@@ -39,4 +39,4 @@ Description, proposition de valeur unique
 ## Resources
 
 * git projet-JS-REST :https://git-iut.univ-lille1.fr/barbetf/Rest_agile.git
-* git android : 
+* git android : https://github.com/florianhirson/JobberMeister
