@@ -33,11 +33,10 @@ Description, proposition de valeur unique
 * Richard Alexandre 
 * Dujardin Remy
 * Leicht Theo
-* Barbet Floriant
-* Hirson Floriant
+* Barbet Florian
+* Hirson Florian
  
 ## Resources
 
-* git projet-JS :https://git-iut.univ-lille1.fr/oliveras/Jobber_Meister.git
-* git projet-REST:
+* git projet-JS-REST :https://git-iut.univ-lille1.fr/barbetf/Rest_agile.git
 * git android : 
