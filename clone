@@ -1,25 +1,42 @@
 #!/bin/bash
+set -x
 
 WORK_DIR=/tmp/clones/
 ORG_DIR=$(pwd)/$(dirname $0)
 rm -rf $WORK_DIR
 mkdir $WORK_DIR
-cd $WORK_DIR
 
+function clone {
+  url=$1
+  title=$2
+  directory=$3
+  if [ -z $url ] 
+  then
+    echo "$title : pas de git"
+    return
+  fi
+
+  git clone --quiet $url ${directory} 2>/dev/null
+  if [ $? -gt 0 ]
+  then 
+    echo "$title : pas les droits"
+    return 
+  fi
+  
+  cd $WORK_DIR/$directory && $ORG_DIR/commit-by-sprint 
+}
+
+cd $WORK_DIR
 csplit --quiet $ORG_DIR/2017-2018/N3-FIFC.md '/^# /' '{*}'
 
 for projet in xx*
 do
-  url=$(cat $projet | grep 'git :' | sed -e 's/.*git ://g')
+  cd $WORK_DIR
+  url=$(cat $WORK_DIR/$projet | grep 'git :' | sed -e 's/.*git ://g')
   title=$(head -n 1 $projet)
-  if [ -z $url ] 
-  then
-    echo "$title : pas de git"
-  else
-    git clone --quiet $url ${projet}.git 2>/dev/null
-    if [ $? -gt 0 ]
-    then 
-      echo "$title : pas les droits"
-    fi
-  fi
+  echo "$projet ==> $title"
+  directory=$(echo $title | iconv -f utf8 -t ascii//TRANSLIT | sed -e 's/[^[:alnum:]]/-/g' -e 's/^-*//' -e 's/-*$//' | tr -s '-' | tr A-Z a-z)
+  clone "$url" "$title" "$directory"
+
+  rm $WORK_DIR/$projet
 done
