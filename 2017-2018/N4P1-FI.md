@@ -15,10 +15,11 @@ Trouve les développeurs code-compatibles au sein de ton groupe, en comparant le
 * Rayan HADDAD
 * Ahmed KABOUBI
 * Edouard MURAT
+* Dylan SKAWAND
 
 ## Resources
 
-* git projet : https://git-iut.univ-lille1.fr/murate/ILoveCode.git
+* git projet : https://git-iut.univ-lille1.fr/fombasst/ILOVECODING.git
 * git android : https://git-iut.univ-lille1.fr/murate/ILoveCode_app.git
 
 # Équipe 2 : ☕ ☝ JOBBER MEISTER ☝ ☕
