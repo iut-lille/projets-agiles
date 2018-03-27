@@ -143,9 +143,9 @@ Description du projet
 
 # Équipe 11
 
-Description du projet:
+Description du projet: MyArbol
 
-Un site pour financer un projet, qui nous permet d'apprendre à épargner en payant à intervalles réguliers pour financer le projet sur une durée donné.
+Notre projet consiste en un site pour financer un projet, qui nous permet d'apprendre à épargner en payant à intervalles réguliers pour financer le projet sur une durée donné.
 
 ## Équipe
 
