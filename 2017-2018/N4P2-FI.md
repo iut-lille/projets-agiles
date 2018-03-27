@@ -39,16 +39,24 @@ Description du projet
 
 # Équipe 4
 
-Description du projet
+Izyfree: site web et application mobile pour freelances et entreprises
 
 ## Équipe
 
 * 
+Sarah BERTIN
+Florent CADET
+Marin DUBUIS
+Lucas FRESIERS
+Florian LESTIENNE
+Valentin LUCAS 
+Gaspard MATHON
+Guillaume RENAUD 
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://github.com/Guillaume-le-conquerant/izyfree
+* git android : https://git-iut.univ-lille1.fr/fresierl/izyfree-mobile2
 
 # Équipe 5
 
