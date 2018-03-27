@@ -137,18 +137,34 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 9
+# Équipe 9 : Neodrone
 
-Description du projet
+Notre projet est de promouvoir l'utilisation des nouvelles technologies.
+La réponse aux besoins des clients de l'entreprise : 
+          - Création d'une plateforme de compte client
+          - Développement d'un outil de suivi de l'avancement de la mission
+          - Un nouvel outil de communication: une application sur Android pour toujours avoir accès à ses informations
+          - Possibilité de récupérer les photographies directement sur le site internet
+
 
 ## Équipe
 
-* 
+* BADEY Arthur
+* POTTIER Pauline (GEA)
+* SENGES Charles
+* SALVADOR Clément
+* GRANDI Francesca 
+* DESCAMPS Gauthier
+* ROHAERT Jérôme
+* DENECE Simon
+* LICOUR Samy
+
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/sengesc/neodrone_serveur.git
+* git android : https://git-iut.univ-lille1.fr/grandif/Neodrone_Android.git
+* Docker : 37.59.171.5
 
 # Équipe 10
 
