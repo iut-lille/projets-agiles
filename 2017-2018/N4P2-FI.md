@@ -130,16 +130,24 @@ Description du projet
 
 # Équipe 11
 
-Description du projet
+Description du projet:
+
+Un site pour financer un projet, qui nous permet d'apprendre à épargner en payant à intervalles réguliers pour financer le projet sur une durée donné.
 
 ## Équipe
 
-* 
+* Wibaut César
+* Leloire Quentin
+* Mabriez Nathan
+* Derache Lucas
+* Ferron Anaïs
+* Le Ray Clément
+* Decaux Lucas
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/wibautc/MyArbol_REST.git
+* git android : https://git-iut.univ-lille1.fr/lerayc/MyArbol_Android.git
 
 # Équipe 12
 
