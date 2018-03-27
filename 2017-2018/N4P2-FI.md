@@ -4,15 +4,14 @@ MF apprêts et perles : Société	spécialisée	dans	la	vente	des	fournitures	de
 
 ## Équipe
 
-* 
-Dorian Meurin
-Thibaut Pierru
-Juliette Delsaut
-Malaury Boudon
-Mariama Dramé
-Benjamin Martel
-Jérôme Philippart
-Maxime Mons
+* Dorian Meurin
+* Thibaut Pierru
+* Juliette Delsaut
+* Malaury Boudon
+* Mariama Dramé
+* Benjamin Martel
+* Jérôme Philippart
+* Maxime Mons
 
 ## Resources
 
