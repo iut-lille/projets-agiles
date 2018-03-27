@@ -37,21 +37,20 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 4
+# Équipe 4 Izyfree
 
-Izyfree: site web et application mobile pour freelances et entreprises
+Site web et application mobile pour freelances et entreprises
 
 ## Équipe
 
-* 
-Sarah BERTIN
-Florent CADET
-Marin DUBUIS
-Lucas FRESIERS
-Florian LESTIENNE
-Valentin LUCAS 
-Gaspard MATHON
-Guillaume RENAUD 
+* Sarah BERTIN
+* Florent CADET
+* Marin DUBUIS
+* Lucas FRESIERS
+* Florian LESTIENNE
+* Valentin LUCAS 
+* Gaspard MATHON
+* Guillaume RENAUD 
 
 ## Resources
 
