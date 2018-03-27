@@ -1,5 +1,26 @@
 # Équipe 1
 
+MF apprêts et perles : Société	spécialisée	dans	la	vente	des	fournitures	de	bijoux		et	de	kits	DIY	via	Internet
+
+## Équipe
+
+* 
+Dorian Meurin
+Thibaut Pierru
+Juliette Delsaut
+Malaury Boudon
+Mariama Dramé
+Benjamin Martel
+Jérôme Philippart
+Maxime Mons
+
+## Resources
+
+* git serveur : https://git-iut.univ-lille1.fr/pierrut/MF.git
+* git android : https://git-iut.univ-lille1.fr/pierrut/MF.git
+
+# Équipe 2
+
 Description du projet
 
 ## Équipe
@@ -10,26 +31,6 @@ Description du projet
 
 * git serveur :
 * git android :
-
-# Équipe 2
-Entre ed et vous. 
-Entre ed et vous est un site web conçu afin de mettre en lien des seniors et des étudiants, afin que ces derniers puissent leur rendre des services (conduite, courses, aide en informatique, etc...) contre une rémunération de la part du site.
-
-## Équipe
-
-* PASSARD Martin
-* JORDAO Ninon
-* BELEMBERT Melvin
-* MACHTA Ossama
-* BOUCHERY Cyril
-* ABLAIN Lucas
-* HANQUEZ Cyril
-* BROGNIART Patrick
-
-## Resources
-
-* git serveur : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_rest.git
-* git android : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_android.git
 
 # Équipe 3
 
@@ -44,20 +45,21 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 4 Izyfree
+# Équipe 4
 
-Site web et application mobile pour freelances et entreprises
+Izyfree: site web et application mobile pour freelances et entreprises
 
 ## Équipe
 
-* Sarah BERTIN
-* Florent CADET
-* Marin DUBUIS
-* Lucas FRESIERS
-* Florian LESTIENNE
-* Valentin LUCAS 
-* Gaspard MATHON
-* Guillaume RENAUD 
+* 
+Sarah BERTIN
+Florent CADET
+Marin DUBUIS
+Lucas FRESIERS
+Florian LESTIENNE
+Valentin LUCAS 
+Gaspard MATHON
+Guillaume RENAUD 
 
 ## Resources
 
