@@ -168,16 +168,23 @@ La réponse aux besoins des clients de l'entreprise :
 
 # Équipe 10
 
-Description du projet
+Le projet consiste en un site web permettant de s'incrire à une séance de sport en entreprise ou dans une salle en tant que particulier. Il y a également les partenaires qui peuvent proposer l'équipement sportif comme un local pour une séance et les établissements de santé qui peuvent réserver une séance pour leurs patients.
+L'application mobile permet de se connecter et de voir ses informations.
 
 ## Équipe
 
-* 
+* BEHAGUE Quentin
+* HALLART Simon
+* LETERME Alexis
+* MOREAU Antoine
+* DUPONT Armand
+* TRICQUET Amaury
+* FOUANT Matteo
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/letermea/moha-server.git
+* git android : https://git-iut.univ-lille1.fr/letermea/moha-android.git
 
 # Équipe 11
 
