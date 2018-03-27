@@ -126,6 +126,27 @@ La taverne oubliée est un projet d'organisation et de plannification de parties
 
 # Équipe 8
 
+Ceux qui nous lient a pour objectif d'accorder l'importance qu'ils méritent vraiment aux moments forts de notre vie : mariage, naissance de ses enfants ou simplement des moments partagés avec des êtres chers comme vos meilleurs amis.
+Pour l'aider dans cette quête romanesque notre équipe a crée une application mobile sous Android pour faciliter la création de commande et l'importation des photos personnelles du client sur téléphone, tablette et ordinateur.
+
+## Équipe
+
+* CANY Matthieu
+* DECLERCK Théo
+* HUGOO François
+* HUYGHE Antoine
+* MARLIOT Thibault
+* MERIAUX Quentin
+* PICQUENDAR Dylan
+* ROBART Vincent
+
+## Resources
+
+* git serveur : https://github.com/Shylige/jersey-skeleton.git
+* git android : https://git-iut.univ-lille1.fr/huyghea/cqnl-android.git
+
+# Équipe 9
+
 Description du projet
 
 ## Équipe
@@ -136,35 +157,6 @@ Description du projet
 
 * git serveur :
 * git android :
-
-# Équipe 9 : Neodrone
-
-Notre projet est de promouvoir l'utilisation des nouvelles technologies.
-La réponse aux besoins des clients de l'entreprise : 
-          - Création d'une plateforme de compte client
-          - Développement d'un outil de suivi de l'avancement de la mission
-          - Un nouvel outil de communication: une application sur Android pour toujours avoir accès à ses informations
-          - Possibilité de récupérer les photographies directement sur le site internet
-
-
-## Équipe
-
-* BADEY Arthur
-* POTTIER Pauline (GEA)
-* SENGES Charles
-* SALVADOR Clément
-* GRANDI Francesca 
-* DESCAMPS Gauthier
-* ROHAERT Jérôme
-* DENECE Simon
-* LICOUR Samy
-
-
-## Resources
-
-* git serveur : https://git-iut.univ-lille1.fr/sengesc/neodrone_serveur.git
-* git android : https://git-iut.univ-lille1.fr/grandif/Neodrone_Android.git
-* Docker : 37.59.171.5
 
 # Équipe 10
 
