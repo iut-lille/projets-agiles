@@ -19,17 +19,24 @@ MF apprêts et perles : Société	spécialisée	dans	la	vente	des	fournitures	de
 * git android : https://git-iut.univ-lille1.fr/pierrut/MF.git
 
 # Équipe 2
-
-Description du projet
+Entre ed et vous. 
+Entre ed et vous est un site web conçu afin de mettre en lien des seniors et des étudiants, afin que ces derniers puissent leur rendre des services (conduite, courses, aide en informatique, etc...) contre une rémunération de la part du site.
 
 ## Équipe
 
-* 
+* PASSARD Martin
+* JORDAO Ninon
+* BELEMBERT Melvin
+* MACHTA Ossama
+* BOUCHERY Cyril
+* ABLAIN Lucas
+* HANQUEZ Cyril
+* BROGNIART Patrick
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_rest.git
+* git android : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_android.git
 
 # Équipe 3
 
