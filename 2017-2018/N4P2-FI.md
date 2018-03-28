@@ -40,16 +40,23 @@ Entre ed et vous est un site web conçu afin de mettre en lien des seniors et de
 
 # Équipe 3
 
-Description du projet
+Sport In est une application android ayant pour but de connecter les employés de diverses entreprises afin d'organiser et de créer des évènements sportifs.
 
 ## Équipe
 
-* 
+* BUSSCHAERT Adrien
+* PARISSEAUX Juliette
+* MARTEL Elodie
+* MAGNIER Benjamin
+* VERSPEEK Valentin
+* BRUNIN Aymeric
+* HAINGUE Fabien
+* MATZKE Thibaut
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://github.com/Haingue/jersey-skeleton.git
+* git android : https://github.com/Haingue/SportIn.git
 
 # Équipe 4
 
