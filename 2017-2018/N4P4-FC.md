@@ -32,11 +32,15 @@
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Bonne Maxime
+* Mastalerz Thomas
+* Azzaro Alexandre
+* Duponchelle Stéphane
+* Banoukhti Ryad
+* Chauchoy Thibaut
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
-* URL de publication : 
+* git serveur + js : TheTardosProject
+* git android : TheTardosProject
+* URL de publication : https://git-iut.univ-lille1.fr/bonnem/TheTardosProject.git
