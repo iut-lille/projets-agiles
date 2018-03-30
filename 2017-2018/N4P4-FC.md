@@ -2,14 +2,19 @@
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Becaus Lowie
+* Halleux Alexandre
+* Costanzo Pascal
+* Mathon Caroline
+* Agneray Quentin
+* Tertrais Cyprien
+* Eboma Marcellin
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
-* URL de p  ublication : 
+* git serveur + js : https://gitlab.com/Fuzaaki/C0D33R
+* git android : https://gitlab.com/tertraiscyprien64/CodeerAndroid
+* URL de publication : http://51.255.131.189
 
 # Équipe 2
 
