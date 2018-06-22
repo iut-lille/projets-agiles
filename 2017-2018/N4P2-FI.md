@@ -40,16 +40,23 @@ Entre ed et vous est un site web conçu afin de mettre en lien des seniors et de
 
 # Équipe 3
 
-Description du projet
+Sport In est une application android ayant pour but de connecter les employés de diverses entreprises afin d'organiser et de créer des évènements sportifs.
 
 ## Équipe
 
-* 
+* BUSSCHAERT Adrien
+* PARISSEAUX Juliette
+* MARTEL Elodie
+* MAGNIER Benjamin
+* VERSPEEK Valentin
+* BRUNIN Aymeric
+* HAINGUE Fabien
+* MATZKE Thibaut
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://github.com/Haingue/jersey-skeleton.git
+* git android : https://github.com/Haingue/SportIn.git
 
 # Équipe 4
 
@@ -220,14 +227,21 @@ Notre projet consiste en un site pour financer un projet, qui nous permet d'appr
 
 # Équipe 12
 
-Description du projet
+Description du projet : CNV
 
+Le projet CNV consiste en la réalisation d'un site web et d'une application mobile permettant de découvrir ce qu'est la Communication Non Violente, ainsi que s'y exercer.
 ## Équipe
 
-* 
+* MAS Valentin
+* BON Antoine
+* WORME Benjamin
+* ROHAERT Florian
+* SAURO Romain
+* TUROSTOWSKI Antoine
+* LEWANDOSKI Baptiste
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/sauror/Agile_CNV.git
+* git android : https://git-iut.univ-lille1.fr/sauror/CNV_MOBILE.git
 
