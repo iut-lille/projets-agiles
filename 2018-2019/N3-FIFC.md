@@ -1,13 +1,18 @@
 
-# Équipe 1 : Nom du projet
-Description du projet 
+# Équipe 1 : Light on
+
+Jeu de plateau représentant une pièce en deux dimensions. Le joueur dispose de lampes qui éclairent horizontalement et verticalement. Le but est d'éclairer toute la pièce avec le nombre de lampes mis à disposition. Les dispositions de la pièce et le nombre de lampes disponibles changent à chaque niveau.
 
 ## Équipe
-* Prénom Nom
+* Coline Praca
+* Elric Finot
+* Baptiste Darroman 
+* Lucas Breviere 
+* Lucas Dogimont 
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/darromab/Triviale_poursuite.git
 
 
 # Équipe 2 : Nom du projet
