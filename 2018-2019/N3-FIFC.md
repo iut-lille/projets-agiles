@@ -201,7 +201,7 @@ Description du projet
 * git :
 
 
-# Équipe 16 : Nom du projet
+# Équipe 16 : Dut-Quest
 Description du projet 
 
 ## Équipe
