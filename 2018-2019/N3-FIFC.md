@@ -107,15 +107,20 @@ Jeu de cartes et de dés, se jouant à 4 joueurs.
 
 
 
-# Équipe 9 : Nom du projet
-Description du projet 
+# Équipe 9 : Sauv'mouton
+Sauv'mouton est un jeu de gestion d'un troupeau de mouton qu'il faudra garder jusqu'à la fin du jeu.
+Vous êtes un berger qui devra faire des choix suite à des aléas(maladie, naissance, attaque de loups, tempête et tombola), vous devez également nourrir vos moutons tout en évitant de trop vous fatiguer.
 
 ## Équipe
-* Prénom Nom
+* BAUDRY Manon
+* FRETEL Liza
+* PRUNIER Florian
+* POTIER Florian
+* THEBAUD Emeric
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/prunierf/SheepSurvivor.git
 
 
 # Équipe 10 : Nom du projet
