@@ -214,7 +214,7 @@ Dans l'idéal, nous voulons implémenter un rappel d'événements, une représen
 
 ## Resources
 
-* git : [Notre git](https://git-iut.univ-lille1.fr/dallenng/agile19.git)
+* git : https://git-iut.univ-lille1.fr/dallenng/agile19.git
 
 
 # Équipe 20 : Nom du projet
