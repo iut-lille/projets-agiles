@@ -27,14 +27,17 @@ Description du projet
 
 
 # Équipe 3 : Nom du projet
-Description du projet 
+Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du jeu de l'oie mais avec quelques variantes que nous avons intégré afin de complexifier le projet et le rendre un peu plus ludique avec des minis-jeux, des bonus, des malus et des oies. Le premier à la case 63 à gagné ! 
 
 ## Équipe
-* Prénom Nom
+* Pierre Rebeilleau
+* Mattéo Fouant
+* Samuel Outtier 
+* Lietar Théo
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/rebeillp/ProjetAgileS3.git
 
 
 # Équipe 4 : Nom du projet
