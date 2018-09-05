@@ -67,15 +67,21 @@ Description du projet
 * git :
 
 
-# Équipe 7 : Nom du projet
-Description du projet 
+# Équipe 7 : Trappe-fantome
+
+Il faut faire manger Pacman toutes les pac-gommes du labyrinthe trouvent en évitant d’être touché par des fantômes. 
 
 ## Équipe
-* Prénom Nom
+
+* Sacha Bloch
+* Gregoryy Dejonghe
+* Quentin Deliessche
+* Nathan Forestier
+* Mohamed Amine Bennacer
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/blochs/Mini-projet-agile7
 
 
 # Équipe 8 : Nom du projet
