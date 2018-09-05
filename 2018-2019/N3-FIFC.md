@@ -201,15 +201,23 @@ Description du projet
 * git :
 
 
-# Équipe 16 : Nom du projet
-Description du projet 
+# Équipe 16 : Dut-Quest
+
+Dut-Quest vous plonge dans un univers rogue-like, dans cette nouvelle version modernisée, vous devrait affronter vos pires cauchemar, les enseignants du dut Informatique, pour survivre explorez le donjon à la recherche du boss pour l'éliminer et vous reveillez de cet enfer.
+Mais ne vous faite pas tuez par les enseignants rodeur qui seront prêt à vous tuez à coup de code et de commande.
+
 
 ## Équipe
-* Prénom Nom
+* Vintaer Jordan
+* Bazin Jean 
+* Moncheaux Bastien
+* Degand Mathieu
+* Nagi Karaouzene
 
 ## Resources
 
-* git :
+* git :https://git-iut.univ-lille1.fr/vintaerj/Dut-Quest.git
+
 
 
 # Équipe 17 : Nom du projet
