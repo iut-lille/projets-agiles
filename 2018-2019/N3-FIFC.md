@@ -252,14 +252,18 @@ Le jeu du Mastermind classique mais avec des fonctionnalitées supplémentaires.
 * git : https://git-iut.univ-lille1.fr/souvantd/ProjetAgileE20.git
 
 
-# Équipe 21 : Nom du projet
-Description du projet 
+# Équipe 21 : Monopol'IUT
+Création du jeu monopoly customisé IUT Lille
 
 ## Équipe
-* Prénom Nom
+* Quentin Horgnies
+* Sami Lejeune
+* Theo Canonne
+* Valentin Genart
+* Perrot Ismérie
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/canonnet/Agile-N3.git
 
 
