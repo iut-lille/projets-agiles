@@ -136,16 +136,18 @@ Vous êtes un berger qui devra faire des choix suite à des aléas(maladie, nais
 * git : https://git-iut.univ-lille1.fr/prunierf/SheepSurvivor.git
 
 
-# Équipe 10 : Nom du projet
-Description du projet 
+# Équipe 10 : Lovinfo
 
+Le projet consiste à faire répondre deux personnes à des mêmes questions et de voir leur taux de compatibilité en fonction de leur réponses communes
 ## Équipe
-* Prénom Nom
 
+Clarisse Axelle
+Copin Steven
+Tellier Benjamin
+Vanryssel Julien
 ## Resources
 
-* git :
-
+git : https://git-iut.univ-lille1.fr/copins/ProjetAgile.git
 
 # Équipe 11 : Nom du projet
 Description du projet 
