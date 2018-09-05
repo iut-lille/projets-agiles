@@ -127,15 +127,18 @@ Description du projet
 * git :
 
 
-# Équipe 10 : Nom du projet
-Description du projet 
+# Équipe 10 : Lovinfo
+Le projet consiste à faire répondre deux personnes à des mêmes questions et de déterminer leur taux de compatibilité en fonction de leur réponses en commun 
 
 ## Équipe
-* Prénom Nom
+* Clarisse Axelle
+Copin Stevin
+Tellier Benjamin
+Vanryssel Julien
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/copins/ProjetAgile.git
 
 
 # Équipe 11 : Nom du projet
