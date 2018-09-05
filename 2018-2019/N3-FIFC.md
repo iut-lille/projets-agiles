@@ -84,15 +84,20 @@ Il faut faire manger Pacman toutes les pac-gommes du labyrinthe trouvent en évi
 * git : https://git-iut.univ-lille1.fr/blochs/Mini-projet-agile7
 
 
-# Équipe 8 : Nom du projet
-Description du projet 
+# Équipe 8 : Wazabi
+Jeu de cartes et de dés, se jouant à 4 joueurs.
 
 ## Équipe
-* Prénom Nom
+* Nicolas Coussement
+* Bastien Pannier
+* Clément Payen
+* Florentin Fievet
+* Alexandre Blerreau
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/pannierb/AgileG8.git
+
 
 
 # Équipe 9 : Nom du projet
