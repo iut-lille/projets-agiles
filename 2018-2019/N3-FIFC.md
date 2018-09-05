@@ -40,7 +40,6 @@ Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du
 
 * git : https://git-iut.univ-lille1.fr/rebeillp/ProjetAgileS3.git
 
-
 # Équipe 4 : pakrosmaga
 Jeu de stratégie. Attaque et defense de base avec des personnages que l'on achete avec l'argent accumulé au cours de la partie et qu'on envoie au combat.
 
