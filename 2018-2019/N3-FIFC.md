@@ -220,14 +220,18 @@ Description du projet
 
 
 # Équipe 18 : Nom du projet
-Description du projet 
+Description du projet : Tower Defence
+Notre projet est un petit jeu qui consiste à protéger sa base des vagues d'ennemis grâce à des tours défensives plaçables autour du chemin.
 
 ## Équipe
-* Prénom Nom
+* Neel COFFIN
+Antoine SPECQUE
+Thomas MIHLE
+Colin DEFEVER
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/defeverc/projet_agile_s3.git
 
 
 # Équipe 19 : Agenda électronique
