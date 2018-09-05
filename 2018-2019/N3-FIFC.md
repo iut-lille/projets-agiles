@@ -201,15 +201,20 @@ Description du projet
 * git :
 
 
-# Équipe 19 : Nom du projet
-Description du projet 
+# Équipe 19 : Agenda électronique
+Description du projet :
+Notre projet consiste en la création d'un agenda électronique, dont le but est de créer, modifier et supprimer des événements et/ou des contacts. Nous souhaitons pouvoir permettre la catégorisation des événements/contacts, la recherche filtrée (ex.: tous les événements "Professionnel"), la lecture des informations liées aux dates importantes pour l'utilisateur.
+Dans l'idéal, nous voulons implémenter un rappel d'événements, une représentation graphique (mode texte) du calendrier pour une période donnée, etc.
 
 ## Équipe
-* Prénom Nom
+* Gauthier Chombart
+* Guillaume Dallenne
+* Oualid Hassan
+* David Sadon
 
 ## Resources
 
-* git :
+* git : [Notre git](https://git-iut.univ-lille1.fr/dallenng/agile19.git)
 
 
 # Équipe 20 : Nom du projet
