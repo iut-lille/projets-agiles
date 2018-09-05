@@ -219,15 +219,19 @@ Dans l'idéal, nous voulons implémenter un rappel d'événements, une représen
 * git : https://git-iut.univ-lille1.fr/dallenng/agile19.git
 
 
-# Équipe 20 : Nom du projet
-Description du projet 
+# Équipe 20 : Mastermind
+Le jeu du Mastermind classique mais avec des fonctionnalitées supplémentaires.
 
 ## Équipe
-* Prénom Nom
+* Benjamin Lemaire
+* Emmanuel Olivier
+* Donovan Souvanthong
+* Zinedine Zerrouki
+* Thomas Pouly
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/souvantd/ProjetAgileE20.git
 
 
 # Équipe 21 : Nom du projet
