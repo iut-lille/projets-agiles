@@ -41,15 +41,19 @@ Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du
 * git : https://git-iut.univ-lille1.fr/rebeillp/ProjetAgileS3.git
 
 
-# Équipe 4 : Nom du projet
-Description du projet 
+# Équipe 4 : pakrosmaga
+Jeu de stratégie. Attaque et defense de base avec des personnages que l'on achete avec l'argent accumulé au cours de la partie et qu'on envoie au combat.
 
 ## Équipe
-* Prénom Nom
+clusman lucas 
+ranson florian 
+ouvry thomas
+cassoret maxime
+mans léo
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/ouvryt/Agile_Equipe_4.git
 
 # Équipe 5 : Spider Solitaire
 Jeu de carte, il y a 10 colonnes de cartes le but est de crée des famille du AS au Roi en changeant les cartes de colonne.
