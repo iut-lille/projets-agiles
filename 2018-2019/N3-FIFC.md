@@ -34,6 +34,7 @@ Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du
 * Mattéo Fouant
 * Samuel Outtier 
 * Lietar Théo
+* Leclercq Gauthier
 
 ## Resources
 
