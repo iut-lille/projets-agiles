@@ -26,7 +26,7 @@ Description du projet
 * git :
 
 
-# Équipe 3 : Nom du projet
+# Équipe 3 : THE GOOSE GAME
 Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du jeu de l'oie mais avec quelques variantes que nous avons intégré afin de complexifier le projet et le rendre un peu plus ludique avec des minis-jeux, des bonus, des malus et des oies. Le premier à la case 63 à gagné ! 
 
 ## Équipe
