@@ -227,15 +227,18 @@ Mais ne vous faite pas tuez par les enseignants rodeur qui seront prêt à vous 
 
 
 
-# Équipe 17 : Nom du projet
-Description du projet 
-
+# Équipe 17 : Potato Pirate
+Potato pirate est un jeu de carte à 2 joueurs qui permet d'apprendre les bases de l'algo de façon ludique. Les 2 joueurs possède 2 bateau avec 10 patates et un capitaine dans chaque bateau. Il y a plusieurs types de carte, les cartes 'controls' (if, while, for, if/else), les cartes 'attaque' (1 ou 2 patates), les cartes 'protection' et les cartes 'event'. Le but du jeu est de former des combinaisons avec les cartes (3 cartes max) comme par exemple : tant que un des bateaux de l'adversaire possède moins de 4 patates on tue 2 patates. Le premier à avoir éliminé tout les patates de l'autre remporte la partie. A ça, se rajoute des evenements aléatoires tout les 3 tours et des cartes evenements.
 ## Équipe
-* Prénom Nom
+* Alix Delbroucq
+* Allan Ringeval
+* Florentin Plaisant
+* Ludovic Lahousse
+* Tony Landschoot
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/landscht/ProjetAgile.git
 
 
 # Équipe 18 : Nom du projet
@@ -297,5 +300,3 @@ Création du jeu monopoly customisé IUT Lille
 ## Resources
 
 * git : https://git-iut.univ-lille1.fr/canonnet/Agile-N3.git
-
-
