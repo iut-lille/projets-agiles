@@ -42,16 +42,18 @@ Description du projet
 
 * git :
 
-
-# Équipe 5 : Nom du projet
-Description du projet 
+# Équipe 5 : Spider Solitaire
+Jeu de carte, il y a 10 colonnes de cartes le but est de crée des famille du AS au Roi en changeant les cartes de colonne.
 
 ## Équipe
-* Prénom Nom
+Francois Lannoy
+Antoine 
+Remi Guillemin
+Nicolas Fernandes
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/onquiera/spider_solitaire_projet_agile.git
 
 
 # Équipe 6 : Nom du projet
