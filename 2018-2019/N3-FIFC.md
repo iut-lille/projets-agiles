@@ -78,15 +78,20 @@ Description du projet
 * git :
 
 
-# Équipe 8 : Nom du projet
-Description du projet 
+# Équipe 8 : Wazabi
+Jeu de cartes et de dés, se jouant à 4 joueurs.
 
 ## Équipe
-* Prénom Nom
+* Nicolas Coussement
+* Bastien Pannier
+* Clément Payen
+* Florentin Fievet
+* Alexandre Blerreau
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/pannierb/AgileG8.git
+
 
 
 # Équipe 9 : Nom du projet
