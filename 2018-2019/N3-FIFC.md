@@ -249,7 +249,7 @@ Potato pirate est un jeu de carte à 2 joueurs qui permet d'apprendre les bases 
 * git : https://git-iut.univ-lille1.fr/landscht/ProjetAgile.git
 
 
-# Équipe 18 : Nom du projet
+# Équipe 18 : Tower Defence
 Description du projet : Tower Defence
 Notre projet est un petit jeu qui consiste à protéger sa base des vagues d'ennemis grâce à des tours défensives plaçables autour du chemin.
 
