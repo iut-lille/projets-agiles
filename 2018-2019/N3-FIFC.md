@@ -73,9 +73,8 @@ Clement Danglot
 * git : https://git-iut.univ-lille1.fr/onquiera/spider_solitaire_projet_agile.git
 
 
-# Équipe 6 : Nom du projet
+# Équipe 6 : Lille au Donjon - Sauriez-vous devenir le maitre des éléments
 
-Lille au Donjon - Sauriez-vous devenir le maitre des éléments ?
  Notre jeu est un "rogue like", c'est un donjon contenant des salles et chaque salles contiennent des monstres. Ces monstres peuvent être de différents types : Eau, feu ou plante.
 Le joueur possède 3 attaques, une de chaque type et il faut choisir la bonne attaque pour tuer le monstre facilement et avancer le plus simplement possible dans le jeu.
 
