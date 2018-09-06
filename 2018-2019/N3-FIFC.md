@@ -183,15 +183,20 @@ Jeu permettant de réaliser le travail dans une ferme et la gestion des différe
 * git : https://git-iut.univ-lille1.fr/hansona/Farmiut.git
 
 
-# Équipe 13 : Nom du projet
-Description du projet 
+# Équipe 13 : Medieval Builder
+Medieval Builder est un jeu de gestion d'une ville medieval où il faut prendre soin de ces petit villageois en les nourrissant
+, les faire travailler tout ça pour maintenir leur bonheur et leur stock de nourriture ! 
 
 ## Équipe
-* Prénom Nom
+* Alexandre Duhamel
+* Poteau Alexis
+* Raphael Bauvin
+* Jimmy Letoret
+* Sully Geldhof
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/letoretj/Equipe13-Agile.git
 
 
 # Équipe 14 : Nom du projet
