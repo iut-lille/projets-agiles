@@ -199,7 +199,7 @@ Medieval Builder est un jeu de gestion d'une ville medieval où il faut prendre 
 * git : https://git-iut.univ-lille1.fr/letoretj/Equipe13-Agile.git
 
 
-# Équipe 14 : The Sudent Life
+# Équipe 14 : The Student Life
 The Sudent Life est un jeu représentant le déroulement de la vie étudiante au sein de l'Iut. L'objectif est de gérer 4 jauges qui sont respectivement le bon déroulement ou non de vos etude, votre sommeil, votre vie sociale ainsi que votre porte monnaie.
 Vielliez à ne pas passer en dessous de 0% ou à ne pas dépasser les 100% pour survire à cette année scolaire.
 
