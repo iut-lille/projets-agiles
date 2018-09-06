@@ -15,15 +15,18 @@ Jeu de plateau représentant une pièce en deux dimensions. Le joueur dispose de
 * git : https://git-iut.univ-lille1.fr/darromab/Triviale_poursuite.git
 
 
-# Équipe 2 : Nom du projet
-Description du projet 
-
+# Équipe 2 : 2Choices
+ Dans 2CHOICES vous incarnerer le personnage de vôtre choix un Seigneur, un mage, un paladin et un aventurier. vous serez emmené dans	cet univers où vous devrez faire les bons choix aux risques de perdres des points de vie de réputation, de karma ou encore d'argent .	Faite les bons choix pour le meilleur comme pour le pire !
+	
 ## Équipe
-* Prénom Nom
-
+* Simon Blanquart
+* Alexandre DESREUMAUX 
+* Kayode DA CRUZ
+* Lucas BLONDIN
+* Romain POULAIN
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/blanquas/projetAgile2018Reigns.git
 
 
 # Équipe 3 : THE GOOSE GAME
