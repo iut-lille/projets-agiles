@@ -60,9 +60,10 @@ Jeu de carte, il y a 10 colonnes de cartes le but est de crée des famille du AS
 
 ## Équipe
 Francois Lannoy
-Antoine 
+Antoine Onquiert
 Remi Guillemin
 Nicolas Fernandes
+Clement Danglot
 
 ## Resources
 
