@@ -139,25 +139,33 @@ Vous êtes un berger qui devra faire des choix suite à des aléas(maladie, nais
 # Équipe 10 : Lovinfo
 
 Le projet consiste à faire répondre deux personnes à des mêmes questions et de voir leur taux de compatibilité en fonction de leur réponses communes
+Équipe
+
 ## Équipe
 
-Clarisse Axelle
-Copin Steven
-Tellier Benjamin
-Vanryssel Julien
+* Clarisse Axelle 
+* Copin Steven 
+* Tellier Benjamin 
+* Vanryssel Julien
+
 ## Resources
 
 git : https://git-iut.univ-lille1.fr/copins/ProjetAgile.git
 
-# Équipe 11 : Nom du projet
-Description du projet 
+
+# Équipe 11 : My Pet
+Un tamagochi.
 
 ## Équipe
-* Prénom Nom
+* Arnaud Bascop
+* Margot Colpart
+* Younoussa Sow
+* Titouan Masson
+* Brice Despelchin
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/sowy/my-pet.git
 
 
 # Équipe 12 : Farmiut
