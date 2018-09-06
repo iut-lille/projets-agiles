@@ -218,15 +218,18 @@ Vielliez à ne pas passer en dessous de 0% ou à ne pas dépasser les 100% pour 
 * git : https://git-iut.univ-lille1.fr/pereirani/theStudentLife.git
 
 
-# Équipe 15 : Nom du projet
-Description du projet 
+# Équipe 15 : Jeu de Risque
+Jeu de Risque est la reprise du fameu jeu de plateau Risk. L'objectif est de prendre le contrôle de l'intégralité du monde on étant plus rusé que ses adversaires. 
 
 ## Équipe
-* Prénom Nom
+* Pierre Grenier 
+* Aime Marcant
+* Mickael Spilmont
+* Benjamin Florentin
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/marcanta/Projet15.git
 
 
 # Équipe 16 : Dut-Quest
